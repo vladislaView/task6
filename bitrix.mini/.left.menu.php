@@ -1,8 +1,8 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"Новостной", 
-		"/novostnoy/", 
+		"Новый раздел", 
+		"/novyy-razdel/", 
 		Array(), 
 		Array(), 
 		"" 

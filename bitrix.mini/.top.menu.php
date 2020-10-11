@@ -15,15 +15,29 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"обратная связь", 
-		"/obratnaya-svyaz/", 
+		"Контент", 
+		"/content/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Запись на тестирование", 
-		"/zapis-na-testirovanie/", 
+		"Магазин", 
+		"/e-store/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Общение", 
+		"/communication/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Социальная сеть", 
+		"/club/", 
 		Array(), 
 		Array(), 
 		"" 
